@@ -18,5 +18,5 @@ function overwriteBestCustomer() {
 const leastFavoriteCustomer = "toby"
 
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = console.warn()
+  leastFavoriteCustomer = console.warn("TypeError")
 }
